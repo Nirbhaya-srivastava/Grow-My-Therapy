@@ -1,0 +1,28 @@
+
+# Dependencies
+node_modules/
+
+# Next.js generated files
+.next/
+out/
+
+# Build output
+build/
+dist/
+coverage/
+
+# Environment variables and secrets
+.env*
+!.env.example
+
+# Logs
+*.log
+
+# TypeScript build information
+*.tsbuildinfo
+
+# Operating system files
+.DS_Store
+
+# Deployment
+.vercel/
